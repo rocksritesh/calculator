@@ -1,0 +1,40 @@
+.container{
+    height: 400px;
+    width: 450px;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: black;
+}
+
+#display{
+    width: 350px;
+    margin-top: 10px;
+    height: 25px;
+    margin-left: 50px;
+    padding: 4px;
+    border: 4px double blue;
+    cursor: pointer;
+    font-size: 32px;
+    text-align: center ;
+    border-radius: 10px;
+}
+
+input[type="button"]{
+    height: 45px;
+    width: 45px;
+    margin: 5px;
+    margin-left: 42px;
+    margin-top: 12px;
+    cursor: pointer;
+    color: aqua;
+    border-radius: 50px;
+    text-align: center;
+    background-color: black;
+    text-shadow: 10px 20px 5px orange;
+    box-shadow: 5px 7px 25px blue;
+}
+
+.cal{
+margin-left: 350px;
+color: blue;
+}
