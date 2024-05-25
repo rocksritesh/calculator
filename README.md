@@ -1,3 +1,3 @@
 # calculator
 it is very simple calculator 
-using html, css
+using html, css and javascript
